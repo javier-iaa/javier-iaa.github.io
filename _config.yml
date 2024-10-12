@@ -9,7 +9,7 @@ name: Javier Pascual Granado
 description: Astrophysicist and Data Scientist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/javier-iaa/javipg.github.io/images/28598194.png
+avatar: "/images/28598194.png"
 
 #
 # Flags below are optional
